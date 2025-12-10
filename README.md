@@ -1,6 +1,6 @@
 # 🚀 GSAP Learning Journey  
 This repository is a collection of all my practice work, experiments, and mini-projects while learning **GSAP (GreenSock Animation Platform)**.  
-My goal with this repo is to improve my animation skills, understand motion design principles, and eventually build smooth, modern, and interactive web experiences.
+My goal with this repo is to improve my animation skills, understand motion design principles, and eventually build smooth, modern, and interactive web experiences..
 
 ---
 
